@@ -9,3 +9,9 @@ This is still very much a work in progress. While this program is mostly feature
 2. [Microsoft Excel](https://www.microsoft.com/en-us/microsoft-365/excel), for filling out courseline.csv files, as well as updating Arcade's stage param.
 3. Any tool to help with correctly syncing up audio files, such as [ArrowVortex](https://arrowvortex.ddrnl.com/).
 4. [Audacity](https://www.audacityteam.org/), not strictly required, but a tool for trimming .wav files is quite useful.
+
+# How to Use
+Take a look at the [wiki](https://github.com/Yamamoto0773/GCSimulator.App/wiki) for an overview on how to use this tool.
+
+# Where to Download
+You can find the latest release [here](https://github.com/itsLevande/GCCompanion/releases), as well as "Synchronicity," my example chart that was created with this tool.
