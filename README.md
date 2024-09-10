@@ -11,7 +11,7 @@ This is still very much a work in progress. While this program is mostly feature
 4. [Audacity](https://www.audacityteam.org/), not strictly required, but a tool for trimming .wav files is quite useful.
 
 # How to Use
-Take a look at the [wiki](https://github.com/itsLevande/GCCompanion/) for an overview on how to use this tool.
+Take a look at the [wiki](https://github.com/itsLevande/GCCompanion/wiki) for an overview on how to use this tool.
 
 # Where to Download
 You can find the latest release [here](https://github.com/itsLevande/GCCompanion/releases), as well as "Synchronicity," my example chart that was created with this tool.
